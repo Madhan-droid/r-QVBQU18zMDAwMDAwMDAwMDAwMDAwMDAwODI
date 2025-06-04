@@ -1,4 +1,4 @@
 export const CONSTANTS = {
      productShortName: "cny",
-     stackName: "products-api-stack"
+     stackName: "cny-api-cdk-stack"
 };

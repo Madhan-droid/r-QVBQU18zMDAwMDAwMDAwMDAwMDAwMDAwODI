@@ -28,11 +28,7 @@
           "typescript": "~5.3.3"
      },
      "dependencies": {
-          "@aws-sdk/client-cloudformation": "^3.596.0",
-          "@aws-sdk/client-dynamodb": "^3.699.0",
-          "@cny-cdk-stack/discovery-services": "*",
-          "@cny-cdk-stack/prerequisite-deployment": "*",
-          "@cny-cdk-stack/products": "*",
+          "@cny-cdk-stack/test-goal-stack": "0.0.2",
           "@cny-common/aws.cdk.ts": "0.0.252",
           "@cny-helpers/nodejs": "*",
           "aws-cdk-lib": "2.124.0",
